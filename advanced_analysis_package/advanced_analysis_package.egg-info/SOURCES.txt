@@ -1,0 +1,6 @@
+README.md
+setup.py
+advanced_analysis_package.egg-info/PKG-INFO
+advanced_analysis_package.egg-info/SOURCES.txt
+advanced_analysis_package.egg-info/dependency_links.txt
+advanced_analysis_package.egg-info/top_level.txt
